@@ -1,3 +1,4 @@
-- Reworked lighting
-- Added Item Preset option
-- Fixed some bugs
+- Fixed a bug with camera rotation
+- Removed multicolored lighting in the new themes
+- Fixed a bug with player scaling
+- Added the “Large House Scale” option
