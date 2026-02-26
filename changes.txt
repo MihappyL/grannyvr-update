@@ -1,5 +1,4 @@
-- Added UI with bloody screen effects
-- Added the ability to change height
-- Minor changes in the main menu
-- Fixed many bugs
-- Added an easter egg with mistersans in the living room (main menu)
+- Added christmas and halloween skins for Angelina
+- Reworked the escape scene
+- Lighting is now brighter
+- Fixed some bugs
