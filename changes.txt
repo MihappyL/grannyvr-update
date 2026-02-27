@@ -1,4 +1,1 @@
-- Added christmas and halloween skins for Angelina
-- Reworked the escape scene
-- Lighting is now brighter
-- Fixed some bugs
+- Fixed car ending
