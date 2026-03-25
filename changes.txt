@@ -1,6 +1,7 @@
-- Added "For fun" section in options
-- Added footstep sounds for player
-- Fixed camera breaking in the jail
-- "Not pause menu" renamed to "Game menu"
-- Added "Change item scale" option in cheat menu
-- Fixed some bugs
+- Main menu redesigned
+- Added "How to play" tab in settings
+- Added "I need" hints
+- Fixed lighting in standalone versions
+- Updated Easter egg in the main menu
+- Updated cheat menu
+- Fixed many bug
