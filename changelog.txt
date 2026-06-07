@@ -1,0 +1,81 @@
+1.3.6:
+- Added "I need" tips
+- Reworked main menu
+- Added "How to play" tab
+- Reworked sounds:
+  - Wooden stick
+  - Open padlock and rusty padlock
+  - Open fourth floor door
+  - Chain cutting
+  - Reworked cheat menu (removed scroll rect)
+- Fixed some issues
+
+1.3.5:
+- Added "for fun" tab in game options
+- Added footstep sounds
+- "Not pause menu" renamed to "Game menu"
+- Fixed some issues
+
+1.3.4:
+- Fixed car ending (1.3.3 fixpatch)
+
+1.3.3:
+- Added halloween and christmas things
+- Upscaled house textures
+- Fixed some issues
+
+1.3.2:
+- Added some easter eggs in main menu
+- Added player height setting (in cheat menu)
+- Added blood screens
+- Fixed some issues
+
+1.3.1:
+- Removed colored lighting from halloween and christmas themes
+- Added bigger house mode
+- Fixed some issues
+
+1.3:
+- Reworked all lighting
+- Added item preset option
+- Reworked game icon and splash screen
+- Fixed some issues
+
+0.2.9.3:
+- Fixed important issue
+- Ported on Quest headsets
+
+0.2.9:
+- Added new hands model
+- Fixed interaction system
+- Added noclip and infinity ammo modes in cheat menu
+- Fixed some issues
+
+0.2.8:
+- Added christmas and halloween themes
+- Reworked lighting in main menu
+- Fixed some issues
+
+0.2.1:
+- Added the ability to crouch
+- Fixed some issues
+
+0.2.0:
+- Added 1.8 features:
+  - Angelina, who crawls
+  - Spider Mom
+  - New escape (pipe)
+  - Spider cellar
+  - Spider key
+  - Rusty padlock key
+  - Wooden stick
+  - A chain cutter
+- Fixed some issues
+
+0.1.1:
+- Fixed some issues
+- Added in-game menu
+- Added cheat menu
+
+0.1.0:
+- First version
