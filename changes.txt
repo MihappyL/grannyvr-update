@@ -1,7 +1,11 @@
-- Main menu redesigned
-- Added "How to play" tab in settings
-- Added "I need" hints
-- Fixed lighting in standalone versions
-- Updated Easter egg in the main menu
-- Updated cheat menu
-- Fixed many bug
+(Install this update for more information)
+
+- Added 3 features in the cheat menu
+- Removed player height feature in the cheat menu
+- Removed Post Processing in game options
+- Added new fun setting
+- Updated Unity version
+- Changed render pipeline to Universal RP
+- Rewrote Angelina's and cellar ambient code
+- Added out-of-bounds item notification
+- Fixed some issues
