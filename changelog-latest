@@ -10,4 +10,5 @@
 - Changed render pipeline to Universal RP
 - Rewrote Angelina's and cellar ambient code
 - Added out-of-bounds item notification
+- Added DVLoper splash screen
 - Fixed some issues
