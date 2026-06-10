@@ -9,6 +9,7 @@
 - Updated Unity version to 2022.3.62f3
 - Changed render pipeline to Universal RP
 - Rewrote Angelina's and cellar ambient code
+- Reworked darker mode
 - Added out-of-bounds item notification
 - Added DVLoper splash screen
 - Fixed some issues
