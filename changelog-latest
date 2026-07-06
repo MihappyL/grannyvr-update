@@ -1,15 +1,11 @@
-1.3.7:
-- Added 3 features in the cheat menu:
-  - Granny freeze mode
-  - Granny can't attack mode
-  - Change player speed
-- Removed player height feature in the cheat menu
-- Removed Post Processing in game options
-- Added new fun setting: Granny moonwalk mode
-- Updated Unity version to 2022.3.62f3
-- Changed render pipeline to Universal RP
-- Rewrote Angelina's and cellar ambient code
-- Reworked darker mode
-- Added out-of-bounds item notification
-- Added DVLoper splash screen
+1.3.8:
+- Added colored lighting in Halloween and Christmas themes
+- Added spiders in the Spider Cellar
+- Added in-game options:
+  - Turn speed option
+  - Sounds volume
+  - Main hand option
+- Added bats in the Halloween theme
+- Fixed skeleton and santa AI
+- Added skeleton and santa step sounds
 - Fixed some issues
