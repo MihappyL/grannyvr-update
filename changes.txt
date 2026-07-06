@@ -1,11 +1,9 @@
 (Install this update for more information)
 
-- Added 3 features in the cheat menu
-- Removed player height feature in the cheat menu
-- Removed Post Processing in game options
-- Added new fun setting
-- Updated Unity version
-- Changed render pipeline to Universal RP
-- Rewrote Angelina's and cellar ambient code
-- Added out-of-bounds item notification
+- Added colored lighting in Halloween and Christmas themes
+- Added spiders in the Spider Cellar
+- Added in-game options
+- Added bats in the Halloween theme
+- Fixed skeleton and santa AI
+- Added skeleton and santa step sounds
 - Fixed some issues
